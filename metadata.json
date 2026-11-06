@@ -1,0 +1,6 @@
+{
+  "name": "IronLog - Tracker de Rutinas & Progreso Gym",
+  "description": "Aplicación de seguimiento de entrenamientos en el gimnasio: registra series, pesos, repeticiones, reordena ejercicios, planifica por día y analiza tu progreso con gráficas interactivas y récords personales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
